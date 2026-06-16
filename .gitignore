@@ -1,0 +1,11 @@
+**/.ipynb_checkpoints/
+**/wandb/
+**/logs/
+**/train_logs/
+**/output/
+**/output_*/
+**/final_model/
+**/*.wandb
+**/*.log
+results.out
+predictions.json
